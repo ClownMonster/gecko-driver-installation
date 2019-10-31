@@ -1,0 +1,10 @@
+#Installation process for GeckoDriver in LInux --
+
+
+GeckoDriver is a web browser engine which is used in many applications developed by Mozilla Foundation and the Mozilla Corporation. GeckoDriver is the link between your tests in "Selenium" and the "Firefox browser". 
+GeckoDriver is a proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers.
+
+
+
+
+
