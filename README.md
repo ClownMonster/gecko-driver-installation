@@ -4,8 +4,9 @@
 
 # you can also add the comment of your problem in the issue section
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) '@author Clown Monster'
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+# link for the Geckodriver:
 
-<a class="link-gray-dark"  href="#url">link-gray-dark</a>
+<div class="text-blue mb-2">
+  Linix32 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux32.tar.gz>
+  Linux64: <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz>
+</div>
