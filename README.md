@@ -6,7 +6,10 @@
 
 # link for the Geckodriver:
 
-<div class="text-blue mb-2">
-  Linix32 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux32.tar.gz>
-  Linux64: <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz>
-</div>
+# Linix32 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux32.tar.gz>
+# Linux64 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz>
+# Macos   : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-macos.tar.gz>
+# Windows32: <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win32.zip>
+# Windows64 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip>
+
+Choose the link depending upon your os .. you can download them even through your terminal using "wget" or "git clone"
