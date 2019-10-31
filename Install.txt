@@ -4,6 +4,23 @@
 GeckoDriver is a web browser engine which is used in many applications developed by Mozilla Foundation and the Mozilla Corporation. GeckoDriver is the link between your tests in "Selenium" and the "Firefox browser". 
 GeckoDriver is a proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers.
 
+-->Download the recent Geckodriver from the links given in readme file depending on your OS
+
+Example(For Linux 64bit) :- wget https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz
+
+-->  unzip the downloaded file 
+
+example(for linux and macos) :--  tar -xvzf geckodriver*
+
+--> Change the mode od the file 
+
+Chmod +x geckodriver
+
+
+--> move it the local user bin 
+
+mv geckodriver /usr/local/bin/   {{ In case if the permission is denied use sudo at the begining of the line }}
+
 
 
 
