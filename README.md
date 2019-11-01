@@ -23,3 +23,5 @@ this websiter was bult [clownMOnster](clownmmonster.github.io)
 - [x] filled
 - [ ] not filled
 
+
+<p>My mother has <span style="color:blue">blue</span> eyes.</p>
