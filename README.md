@@ -4,24 +4,11 @@
 
 # you can also add the comment of your problem in the issue section
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
+# Linix32 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux32.tar.gz>
+# Linux64 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz>
+# Macos   : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-macos.tar.gz>
+# Windows32: <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win32.zip>
+# Windows64 : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip>
 
-<!doctype html>
-
-
-<h1 style="color:#f03c15; text-align:centre;">HELLO</h1>
-<div style="color:yellow;">HI</div>
-</html>
-
-this websiter was bult [clownMOnster](clownmmonster.github.io)
-
-:+1:
-
-- [x] filled
-- [ ] not filled
-
-
-<p>My mother has <span style="color:blue">blue</span> eyes.</p>
+Choose the link depending upon your os .. you can download them even through your terminal using "wget" or "git clone"
