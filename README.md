@@ -13,3 +13,7 @@
 - **Windows64** : <https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip>
 
 Choose the link depending upon your os .. you can download them even through your terminal using "wget" or "git clone"
+
+** you can follow the same procedure for the installation of the Webdriver too **
+
+
