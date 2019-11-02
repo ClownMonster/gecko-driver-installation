@@ -16,6 +16,3 @@ Choose the link depending upon your os .. you can download them even through you
 
 
 
-<p style = "color:green; background: yellow;">
-  hello how are you
-</p>
