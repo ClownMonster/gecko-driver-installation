@@ -23,5 +23,10 @@ mv geckodriver /usr/local/bin/   {{ In case if the permission is denied use sudo
 
 
 
+## you can follow the same procedure forthe installtion of the "web-driver" too .. you need to have either one the browser like 
+mozilla firefox, chromium or google chrome ==> chromium driver is also availble and can be replacable to other drivers
+
+
+
 
 
