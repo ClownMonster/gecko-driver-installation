@@ -17,9 +17,9 @@ example(for linux and macos) :--  tar -xvzf geckodriver*
 Chmod +x geckodriver
 
 
---> move it the local user bin 
+--> move it the local user bin {{ in case of windows add new path varriable in the name of geckodriver }}
 
-mv geckodriver /usr/local/bin/   {{ In case if the permission is denied use sudo at the begining of the line }}
+mv geckodriver /usr/local/bin/   {{ In case if the permission is denied use sudo at the begining of the line in case of linux, unix or macos}}
 
 
 
