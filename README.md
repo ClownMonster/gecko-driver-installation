@@ -14,6 +14,8 @@
 
 Choose the link depending upon your os .. you can download them even through your terminal using "wget" or "git clone"
 
+<kbd>right-click</kbd>
+
 
 
 
