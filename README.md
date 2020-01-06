@@ -1,4 +1,4 @@
-# Follow the steps as in the install.txt file if any issues persists let us know we will be glad to help you
+# Trace the steps as in the install.txt file if any issues persists let us know we will be glad to help you
 
 <span style="color:red;font-size:18px;">Email</span> : <mk6386223@gmail.com>
 
