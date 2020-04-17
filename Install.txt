@@ -12,6 +12,8 @@ Example(For Linux 64bit) :- wget https://github.com/mozilla/geckodriver/releases
 
 example(for linux and macos) :--  tar -xvzf geckodriver*
 
+--> change the directory to inner folder geckodriver
+
 --> Change the mode od the file 
 
 Chmod +x geckodriver
